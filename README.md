@@ -12,3 +12,8 @@ Followed by commands :-
 2. pip install newspaper3k
 3. cd /opt/notebooks
 4. scrapy startproject news
+
+For Keras docker :- 
+download and follow instruction at :- 
+https://github.com/fchollet/keras/tree/master/docker
+
